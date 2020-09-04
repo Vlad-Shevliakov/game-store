@@ -10,7 +10,7 @@
     "eslint-plugin-prettier": "^3.1.1",
     "formik": "^1.5.8",
     "nanoid": "^2.1.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "prettier": "^1.18.2",
     "react": "^16.10.2",
     "react-bootstrap": "^1.0.0-beta.14",
